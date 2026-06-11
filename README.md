@@ -1,5 +1,7 @@
 # Predicción y Segmentación de Pacientes con Riesgo de Alzheimer
 
+Link Streamlit: https://app-jamhhvwtop5typvooaycag.streamlit.app/
+
 ## Descripción del Proyecto
 
 Este proyecto desarrolla una aplicación interactiva en Streamlit para apoyar el análisis de pacientes mediante técnicas de Machine Learning aplicadas a datos relacionados con la enfermedad de Alzheimer.
